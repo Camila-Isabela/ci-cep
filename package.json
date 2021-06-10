@@ -1,7 +1,7 @@
 {
   "name": "ci-utils-cep",
   "version": "1.0.0",
-  "description": "Pacote para formatar cep",
+  "description": "Pacote para formatação de cep",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Camila-Isabela/ci-utils-cep.git"
   },
-  "keywords": ["cep"],
+  "keywords": ["cep","formatar", "auto"],
   "author": "Camila <camila.isabela@ibm.com>",
   "license": "MIT",
   "bugs": {
