@@ -1,6 +1,6 @@
 {
-  "name": "ci-utils-cep",
-  "version": "1.0.0",
+  "name": "ci-cep",
+  "version": "1.1.0",
   "description": "Pacote para formatação de cep",
   "main": "index.js",
   "scripts": {
